@@ -1,0 +1,11 @@
+data
+.vscode
+venv
+**__pycache__**
+**ipynb_checkpoints**
+segmentations/
+.idea/
+**/lightning_logs
+**/results
+.coverage
+pyproject.toml
